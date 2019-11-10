@@ -11,4 +11,12 @@ Maak de 5 layouts na zoals die zijn uitgebeeld in de bijgevoegde PDF. Gebruik hi
 * margin
 * padding
 
+### Gebruik van Git en Github
+We maken voor deze opdracht gebruik van Github. Volg de onderstaande stappen:
+* Maak een map aan voor deze les
+* Open deze map in VS Code: file > open folder (of CTRL-K CTRL-O)
+* Open een nieuwe terminal in VS Code: Terminal > New Terminal (of CTRL-SHIFT-`)
+* Bij de opdracht op Github in je browser, klik op de groene 'Clone or Download' knop en kopieer de link
+* In de Terminal in VS Code type:
+> git clone <paste de link>
 
