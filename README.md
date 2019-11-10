@@ -18,5 +18,6 @@ We maken voor deze opdracht gebruik van Github. Volg de onderstaande stappen:
 * Open een nieuwe terminal in VS Code: Terminal > New Terminal (of CTRL-SHIFT-`)
 * Bij de opdracht op Github in je browser, klik op de groene 'Clone or Download' knop en kopieer de link
 * In de Terminal in VS Code type:
-``` git clone <paste de link>
-
+```bash 
+git clone <paste de link>
+```
