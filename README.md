@@ -21,3 +21,9 @@ We maken voor deze opdracht gebruik van Github. Volg de onderstaande stappen:
 ```bash 
 git clone <paste de link>
 ```
+* De aangeleverde bestanden in de repository zijn nu gekopieerd naar je laptop en staan in een submap van de map die je voor deze les hebt aangemaakt.
+* Commit tijdens het maken van de opdrachten zovaak mogelijk je code door:
+ * In VS Code bij het Source Control paneel: 
+   * een beschrijving op te geven van wat je hebt veranderd in de code
+   * op het vinkje bovenaan te klikken
+   * uit het menu (...) Push te kiezen
