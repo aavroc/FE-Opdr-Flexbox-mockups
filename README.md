@@ -27,3 +27,6 @@ git clone <paste de link>
    * een beschrijving op te geven van wat je hebt veranderd in de code
    * op het vinkje bovenaan te klikken
    * uit het menu (...) Push te kiezen
+
+### Links
+[Flexbox Cheatsheet #1](https://yoksel.github.io/flex-cheatsheet/#align-items)
